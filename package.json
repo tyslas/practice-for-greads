@@ -1,0 +1,17 @@
+{
+  "name": "express-prac-many-to-many",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tito",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2",
+    "hbs": "^4.0.1",
+    "knex": "^0.14.0",
+    "pg": "^7.4.0"
+  }
+}
